@@ -1,4 +1,4 @@
-# meu-primeiro-nome
-Meu primeiro hostorico de pesquisa e inovação
+# meu-primeiro-repo
+Meu primeiro repositorio de pesquisa e inovação
 
 Alterando meu repositorio remoto.
